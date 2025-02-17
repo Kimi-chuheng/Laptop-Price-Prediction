@@ -4,12 +4,10 @@
 This project consists of two main parts: **Regression** and **Clustering**, conducted as the final project for **UMKC COMP-SCI-5530 (Fall 2024)**. The datasets were provided by the professor, with their original online sources unknown.
 
 ## Project Structure
-- `data/` - Contains the datasets:
-  - `laptop_prices.csv` - Used for regression analysis.
-  - `apartments_for_rent.csv` - Used for clustering analysis.
-- `notebooks/` - Jupyter Notebooks for analysis.
-- `src/` - Python scripts for data preprocessing and modeling.
-- `docs/` - Documentation and reports.
+
+- `laptop_prices.csv` - Used for regression analysis.
+- `apartments_for_rent.csv` - Used for clustering analysis.
+- `Laptop Price Prediction&Apartment price clustering.ipynb` - Jupyter Notebooks for analysis.
 
 ## Regression Analysis (Laptop Prices)
 - **Objective**: Predict laptop prices using various machine learning models.
